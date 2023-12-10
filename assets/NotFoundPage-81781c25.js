@@ -1,4 +1,4 @@
-import{s as n,u as i,j as e}from"./index-6bd703c5.js";import{S as o}from"./pawprint1-c22ba0e3.js";const a="/fs-83-react-node-IvanFendrykov/assets/notfound-img-mobile-2x-860fb928.png",s="/fs-83-react-node-IvanFendrykov/assets/notfound-img-tablet-2x-83686b8a.png",r="/fs-83-react-node-IvanFendrykov/assets/notfound-img-desctop-2x-273e2b7b.png",p=n.div`
+import{s as n,u as i,j as e}from"./index-4bbf951e.js";import{S as o}from"./pawprint1-694aec15.js";const a="/fs-83-react-node-IvanFendrykov/assets/notfound-img-mobile-2x-860fb928.png",s="/fs-83-react-node-IvanFendrykov/assets/notfound-img-tablet-2x-83686b8a.png",r="/fs-83-react-node-IvanFendrykov/assets/notfound-img-desctop-2x-273e2b7b.png",p=n.div`
   width: 100%;
   background-repeat: no-repeat;
   background-size: contain;

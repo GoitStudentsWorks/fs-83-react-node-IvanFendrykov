@@ -1,4 +1,4 @@
-import{s as t,j as e}from"./index-6bd703c5.js";const i="/fs-83-react-node-IvanFendrykov/assets/right-animals-ce7dfe95.png",o=t.div`
+import{s as t,j as e}from"./index-4bbf951e.js";const i="/fs-83-react-node-IvanFendrykov/assets/right-animals-ce7dfe95.png",o=t.div`
     display: flex;
     justify-content:center;
     height: 100vh;
